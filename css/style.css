@@ -1,0 +1,383 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+ul,
+ol {
+    list-style-type: none;
+}
+
+/*HEAD*/
+#head {
+    padding: 25px 0;
+}
+
+#head h1 {
+    font-family: 'Special Elite', cursive;
+    font-weight: 400;
+    font-size: 75px;
+    border-bottom: 2px solid #444;
+}
+
+/*R+M*/
+.rm-img img {
+    border: 1px solid #444;
+}
+
+.rm-text h4 {
+    padding-top: 15px;
+    font-family: 'Special Elite', cursive;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+#r-m {
+    position: relative;
+    
+}
+
+.line {
+    position: absolute;
+    width: 1360px;
+    height: 1.5px;
+    background: #000;
+    top: 347px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#r-m::after {
+    position: absolute;
+    content: '';
+    width: 579px;
+    height: 1.5px;
+    background: #000;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#r-m::before {
+    position: absolute;
+    content: '';
+    width: 1.5px;
+    height: 194px;
+    background: #000;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#nine {
+    padding-top: 85px;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-bottom: 50px;
+}
+
+#head h1 {
+    font-family: 'Special Elite', cursive;
+    font-weight: 400;
+    font-size: 75px;
+    border-bottom: 2px solid #444;
+}
+
+#f-a {
+    position: relative;
+    padding-bottom: 100px;
+    background: #ffc0cb6e;
+}
+
+.line-2 {
+    position: absolute;
+    width: 1360px;
+    height: 1.5px;
+    background: #000;
+    top: 422px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#f-a::after {
+    position: absolute;
+    content: '';
+    width: 579px;
+    height: 1.5px;
+    background: #000;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#f-a::before {
+    position: absolute;
+    content: '';
+    width: 1.5px;
+    height: 194px;
+    background: #000;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#three {
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-bottom: 50px;
+    background: #ffc0cb6e;
+}
+
+#h-a {
+    position: relative;
+    padding-bottom: 100px;
+}
+.shuvo{
+    background: #00ffcc21;
+}
+.line-3 {
+    position: absolute;
+    width: 1360px;
+    height: 1.5px;
+    background: #000;
+    top: 422px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#h-a::after {
+    position: absolute;
+    content: '';
+    width: 579px;
+    height: 1.5px;
+    background: #000;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#h-a::before {
+    position: absolute;
+    content: '';
+    width: 1.5px;
+    height: 194px;
+    background: #000;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#two {
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-bottom: 50px;
+}
+
+#n-t {
+    position: relative;
+    padding-bottom: 100px;
+}
+.tuli{
+    background: #ffff0059;
+}
+.line-4 {
+    position: absolute;
+    width: 1360px;
+    height: 1.5px;
+    background: #000;
+    top: 422px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#n-t::after {
+    position: absolute;
+    content: '';
+    width: 579px;
+    height: 1.5px;
+    background: #000;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#n-t::before {
+    position: absolute;
+    content: '';
+    width: 1.5px;
+    height: 194px;
+    background: #000;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#two {
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-bottom: 50px;
+}
+
+#j-m {
+    position: relative;
+    padding-bottom: 100px;
+}
+.jane{
+    background: #00ff103b;
+}
+.line-5 {
+    position: absolute;
+    width: 1360px;
+    height: 1.5px;
+    background: #000;
+    top: 422px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#j-m::after {
+    position: absolute;
+    content: '';
+    width: 579px;
+    height: 1.5px;
+    background: #000;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#j-m::before {
+    position: absolute;
+    content: '';
+    width: 1.5px;
+    height: 194px;
+    background: #000;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#m-j {
+    position: relative;
+    padding-bottom: 100px;
+}
+.majedul{
+    background: #ffa50059;
+}
+.line-6 {
+    position: absolute;
+    width: 1360px;
+    height: 1.5px;
+    background: #000;
+    top: 422px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#m-j::after {
+    position: absolute;
+    content: '';
+    width: 579px;
+    height: 1.5px;
+    background: #000;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#m-j::before {
+    position: absolute;
+    content: '';
+    width: 1.5px;
+    height: 194px;
+    background: #000;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#m-ja {
+    position: relative;
+    padding-bottom: 100px;
+}
+.jamena{
+    background: #ffd9d9;
+}
+.line-7 {
+    position: absolute;
+    width: 1360px;
+    height: 1.5px;
+    background: #000;
+    top: 422px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#m-ja::after {
+    position: absolute;
+    content: '';
+    width: 579px;
+    height: 1.5px;
+    background: #000;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#m-ja::before {
+    position: absolute;
+    content: '';
+    width: 1.5px;
+    height: 194px;
+    background: #000;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#s-j {
+    position: relative;
+    padding-bottom: 100px;
+}
+.joty{
+    background: #fff70073;
+}
+.line-8 {
+    position: absolute;
+    width: 1360px;
+    height: 1.5px;
+    background: #000;
+    top: 422px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#s-j::after {
+    position: absolute;
+    content: '';
+    width: 579px;
+    height: 1.5px;
+    background: #000;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#s-j::before {
+    position: absolute;
+    content: '';
+    width: 1.5px;
+    height: 194px;
+    background: #000;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%);
+}

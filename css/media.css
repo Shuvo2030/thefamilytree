@@ -1,0 +1,485 @@
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .line {
+        width: 0 !important;
+    }
+
+    .line-2 {
+        width: 0 !important;
+    }
+
+    .line-3 {
+        width: 0 !important;
+    }
+
+    .line-4 {
+        width: 0 !important;
+    }
+
+    .line-5 {
+        width: 0 !important;
+    }
+
+    .line-6 {
+        width: 0 !important;
+    }
+
+    .line-7 {
+        width: 0 !important;
+    }
+
+    .line-8 {
+        width: 0 !important;
+    }
+
+    #r-m::after {
+        width: 85% !important;
+        top: 109% !important;
+    }
+    #nine img{
+        width: 75%!important;
+    }
+    #nine .rm-text{
+        padding-bottom: 25px;
+    }
+    #f-a::after {
+        width: 0 !important;
+    }
+
+    #h-a::after {
+        width: 0 !important;
+    }
+
+    #n-t::after {
+        width: 0 !important;
+    }
+
+    #j-m::after {
+        width: 0 !important;
+    }
+
+    #m-j::after {
+        width: 0 !important;
+    }
+
+    #m-ja::after {
+        width: 0 !important;
+    }
+
+    #s-j::after {
+        width: 0 !important;
+    }
+
+    #r-m:before {
+        width: 0 !important;
+        height: 0 !important;
+    }
+
+    #f-a::before {
+        width: 0 !important;
+        height: 0 !important;
+    }
+
+    #h-a::before {
+        width: 0 !important;
+        height: 0 !important;
+    }
+
+    #n-t::before {
+        width: 0 !important;
+        height: 0 !important;
+    }
+
+    #j-m::before {
+        width: 0 !important;
+        height: 0 !important;
+    }
+
+    #m-j::before {
+        width: 0 !important;
+        height: 0 !important;
+    }
+
+    #m-ja::before {
+        width: 0 !important;
+        height: 0 !important;
+    }
+
+    #s-j::before {
+        width: 0 !important;
+        height: 0 !important;
+    }
+
+    #r-m .w-25 {
+        width: 80% !important;
+    }
+    #f-a .w-25 {
+        width: 90% !important;
+    }
+
+    #three .three-pic img {
+        width: 95% !important;
+    }
+
+    #three .rm-text {
+        padding-bottom: 20px;
+    }
+
+    #h-a .w-25 {
+        width: 90% !important;
+    }
+
+    #n-t .w-25 {
+        width: 90% !important;
+    }
+
+    #j-m .w-25 {
+        width: 90% !important;
+    }
+
+    #m-ja .w-25 {
+        width: 90% !important;
+    }
+
+    #m-j .w-25 {
+        width: 90% !important;
+    }
+
+    #s-j .w-25 {
+        width: 90% !important;
+    }
+
+    #two .three-pic img {
+        width: 95% !important;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .line {
+        width: 0 !important;
+    }
+
+    .line-2 {
+        width: 0 !important;
+    }
+
+    .line-3 {
+        width: 0 !important;
+    }
+
+    .line-4 {
+        width: 0 !important;
+    }
+
+    .line-5 {
+        width: 0 !important;
+    }
+
+    .line-6 {
+        width: 0 !important;
+    }
+
+    .line-7 {
+        width: 0 !important;
+    }
+
+    .line-8 {
+        width: 0 !important;
+    }
+
+    #r-m::after {
+        width: 85% !important;
+        top: 116% !important;
+    }
+    #nine img{
+        width: 75%!important;
+    }
+    #nine .rm-text{
+        padding-bottom: 25px;
+    }
+    #f-a::after {
+        width: 0 !important;
+    }
+
+    #h-a::after {
+        width: 0 !important;
+    }
+
+    #n-t::after {
+        width: 0 !important;
+    }
+
+    #j-m::after {
+        width: 0 !important;
+    }
+
+    #m-j::after {
+        width: 0 !important;
+    }
+
+    #m-ja::after {
+        width: 0 !important;
+    }
+
+    #s-j::after {
+        width: 0 !important;
+    }
+
+    #r-m:before {
+        width: 0 !important;
+        height: 0 !important;
+    }
+
+    #f-a::before {
+        width: 0 !important;
+        height: 0 !important;
+    }
+
+    #h-a::before {
+        width: 0 !important;
+        height: 0 !important;
+    }
+
+    #n-t::before {
+        width: 0 !important;
+        height: 0 !important;
+    }
+
+    #j-m::before {
+        width: 0 !important;
+        height: 0 !important;
+    }
+
+    #m-j::before {
+        width: 0 !important;
+        height: 0 !important;
+    }
+
+    #m-ja::before {
+        width: 0 !important;
+        height: 0 !important;
+    }
+
+    #s-j::before {
+        width: 0 !important;
+        height: 0 !important;
+    }
+
+    #r-m .w-25 {
+        width: 80% !important;
+    }
+    #f-a .w-25 {
+        width: 90% !important;
+    }
+
+    #three .three-pic img {
+        width: 95% !important;
+    }
+
+    #three .rm-text {
+        padding-bottom: 20px;
+    }
+
+    #h-a .w-25 {
+        width: 90% !important;
+    }
+
+    #n-t .w-25 {
+        width: 90% !important;
+    }
+
+    #j-m .w-25 {
+        width: 90% !important;
+    }
+
+    #m-ja .w-25 {
+        width: 90% !important;
+    }
+
+    #m-j .w-25 {
+        width: 90% !important;
+    }
+
+    #s-j .w-25 {
+        width: 90% !important;
+    }
+
+    #two .three-pic img {
+        width: 95% !important;
+    }
+
+}
+
+@media (max-width: 575.98px) {
+    .line {
+        width: 0 !important;
+    }
+
+    .line-2 {
+        width: 0 !important;
+    }
+
+    .line-3 {
+        width: 0 !important;
+    }
+
+    .line-4 {
+        width: 0 !important;
+    }
+
+    .line-5 {
+        width: 0 !important;
+    }
+
+    .line-6 {
+        width: 0 !important;
+    }
+
+    .line-7 {
+        width: 0 !important;
+    }
+
+    .line-8 {
+        width: 0 !important;
+    }
+
+    #r-m::after {
+        width: 85% !important;
+        top: 116% !important;
+
+    }
+
+    #f-a::after {
+        width: 0 !important;
+    }
+
+    #h-a::after {
+        width: 0 !important;
+    }
+
+    #n-t::after {
+        width: 0 !important;
+    }
+
+    #j-m::after {
+        width: 0 !important;
+    }
+
+    #m-j::after {
+        width: 0 !important;
+    }
+
+    #m-ja::after {
+        width: 0 !important;
+    }
+
+    #s-j::after {
+        width: 0 !important;
+    }
+
+    #r-m:before {
+        width: 0 !important;
+        height: 0 !important;
+    }
+
+    #f-a::before {
+        width: 0 !important;
+        height: 0 !important;
+    }
+
+    #h-a::before {
+        width: 0 !important;
+        height: 0 !important;
+    }
+
+    #n-t::before {
+        width: 0 !important;
+        height: 0 !important;
+    }
+
+    #j-m::before {
+        width: 0 !important;
+        height: 0 !important;
+    }
+
+    #m-j::before {
+        width: 0 !important;
+        height: 0 !important;
+    }
+
+    #m-ja::before {
+        width: 0 !important;
+        height: 0 !important;
+    }
+
+    #s-j::before {
+        width: 0 !important;
+        height: 0 !important;
+    }
+
+    /*    R_M*/
+    #r-m .w-25 {
+        width: 80% !important;
+    }
+
+    #f-a .w-25 {
+        width: 90% !important;
+    }
+
+    #three .three-pic img {
+        width: 95% !important;
+    }
+
+    #three .rm-text {
+        padding-bottom: 20px;
+    }
+
+    #h-a .w-25 {
+        width: 90% !important;
+    }
+
+    #n-t .w-25 {
+        width: 90% !important;
+    }
+
+    #j-m .w-25 {
+        width: 90% !important;
+    }
+
+    #m-ja .w-25 {
+        width: 90% !important;
+    }
+
+    #m-j .w-25 {
+        width: 90% !important;
+    }
+
+    #s-j .w-25 {
+        width: 90% !important;
+    }
+
+    #two .three-pic img {
+        width: 95% !important;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
